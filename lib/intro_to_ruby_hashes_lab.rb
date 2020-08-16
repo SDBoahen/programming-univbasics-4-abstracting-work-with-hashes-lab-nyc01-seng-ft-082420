@@ -17,6 +17,8 @@ def update_counting_hash(hash, key)
 
   
   hash[key] ? hash[key] += 1 : hash[key] = 1
+  #  "Do This Exist??"       : "Bet-Make One Real Quick"
+  
   hash
   
   
